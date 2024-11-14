@@ -1,4 +1,3 @@
-
 aalanzaa.bsky.social
 aelydens.bsky.social
 b0rk.jvns.ca
@@ -9,6 +8,7 @@ dtemkin.bsky.social
 englishm.bsky.social
 filippo.abyssdomain.expert
 gawwrgi.bsky.social
+gcyeo.bsky.social
 iamwil.bsky.social
 igupta.in
 itseieio.bsky.social
