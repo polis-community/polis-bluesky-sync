@@ -1,0 +1,14 @@
+[project]
+name = "bluesky-sync"
+version = "0.1.0"
+description = "Sync a list of users to a bluesky starter pack"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "atproto>=0.0.55",
+]
+
+[dependency-groups]
+dev = [
+    "ipython>=8.29.0",
+]
