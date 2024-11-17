@@ -22,6 +22,7 @@ kelin.bsky.social
 mani.itsrainingmani.dev
 mansam.us
 martin.kleppmann.com
+mclare.bsky.social
 nlaz.bsky.social
 ohnadj.bsky.social
 paulbiggar.com
@@ -39,4 +40,3 @@ ttiimm.bsky.social
 vaibhavsagar.com
 vluisa.bsky.social
 winstoncooke.com
-mclare.bsky.social
