@@ -1,5 +1,5 @@
-alanza.xyz
 aelydens.bsky.social
+alanza.xyz
 avi.im
 b0rk.jvns.ca
 blvrd.co
@@ -17,7 +17,8 @@ igupta.in
 itseieio.bsky.social
 jabid.in
 jakelazaroff.com
-jesusgollonet.bsky.social
+jesusgollonet.com
+jkrippy.bsky.social
 just-be.dev
 kaylyn.bsky.social
 kelin.bsky.social
@@ -41,5 +42,6 @@ taravancil.com
 teonbrooks.com
 ttiimm.bsky.social
 vaibhavsagar.com
+vishnubharathi.codes
 vluisa.bsky.social
 winstoncooke.com
