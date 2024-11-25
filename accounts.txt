@@ -6,6 +6,7 @@ blvrd.co
 chimeracoder.bsky.social
 connorguy.xyz
 cwlkcs.bsky.social
+cyberdemon.org
 dtemkin.bsky.social
 englishm.bsky.social
 essnine.bsky.social
@@ -24,6 +25,7 @@ jkrippy.bsky.social
 just-be.dev
 kaylyn.bsky.social
 kelin.bsky.social
+knownhost.bsky.social
 mani.itsrainingmani.dev
 mansam.us
 martin.kleppmann.com
