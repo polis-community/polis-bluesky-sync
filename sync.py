@@ -25,6 +25,7 @@ def main():
         # List of members in the starter pack/list
         members = client.app.bsky.graph.get_list({"list": uri, "limit": 100})
 
+        print()
         print(
             f"Found {members.list.list_item_count} users in {name}, expected {len(expected)}"
         )
@@ -41,7 +42,7 @@ def main():
         missing = expected - found
         if not missing:
             print("No new users to add, exiting")
-            return
+            continue
 
         if len(missing) > 25:
             print(
