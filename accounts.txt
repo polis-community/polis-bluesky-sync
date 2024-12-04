@@ -6,6 +6,7 @@ ballingt.com
 blvrd.co
 chimeracoder.bsky.social
 connorguy.xyz
+connorsworld.bsky.social
 cwlkcs.bsky.social
 cyberdemon.org
 dtemkin.bsky.social
@@ -18,9 +19,11 @@ gcyeo.bsky.social
 greg.technology
 iamwil.bsky.social
 igupta.in
+interjectedfuture.com
 itseieio.bsky.social
 jabid.in
 jakelazaroff.com
+jasdev.bsky.social
 jesusgollonet.com
 jkrippy.bsky.social
 just-be.dev
@@ -30,6 +33,7 @@ knownhost.bsky.social
 mani.itsrainingmani.dev
 mansam.us
 martin.kleppmann.com
+maxverse.bsky.social
 mclare.bsky.social
 mrdrozdov.com
 nlaz.bsky.social
@@ -43,6 +47,7 @@ sbmsr.bsky.social
 simrob.com
 sofua.co.uk
 sourencho.com
+standard.dev
 taravancil.com
 teonbrooks.com
 the-rowan.bsky.social
