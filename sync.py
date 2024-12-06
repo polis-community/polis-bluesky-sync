@@ -22,7 +22,8 @@ def main():
     print(f"logged in as {profile.display_name}")
 
     for name, uri in LISTS:
-        if name.startswith("starter pack"):
+        # Convert starter pack URI to sub-list URI if provided
+        if "/app.bsky.graph.starterpack/" in uri:
             uri = client.app.bsky.graph.get_starter_pack({"starter_pack": uri, "limit": 100}).starter_pack.list.uri
 
         # List of members in the starter pack/list
