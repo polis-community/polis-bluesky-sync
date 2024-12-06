@@ -5,8 +5,6 @@ b0rk.jvns.ca
 ballingt.com
 blvrd.co
 chimeracoder.bsky.social
-connorguy.xyz
-connorsworld.bsky.social
 cwlkcs.bsky.social
 cyberdemon.org
 dtemkin.bsky.social
@@ -17,7 +15,6 @@ filippo.abyssdomain.expert
 gawwrgi.bsky.social
 gcyeo.bsky.social
 greg.technology
-iamwil.bsky.social
 igupta.in
 interjectedfuture.com
 itseieio.bsky.social
