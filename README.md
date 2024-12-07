@@ -1,6 +1,6 @@
 # Bluesky Starter Pack sync
 
-[![Run Sync Script](https://github.com/jaseemabid/bluesky-sync/actions/workflows/sync.yaml/badge.svg)](https://github.com/jaseemabid/bluesky-sync/actions/workflows/sync.yaml)
+[![Run Sync Script][workflow-badge]][workflow-link]
 
 🔄 Sync a list of users in [accounts.txt] to a Bluesky [starter pack][sp] and [list].
 
@@ -8,13 +8,19 @@
 
 ## Dev
 
+**Requirements:**
+- [Install][uv-install] `uv` Python package manager
+
 1. `$ cp sample.env .env` and supply your own values
 2. `$ uv run --env-file .env sync.py`
 
 
 
 
+[workflow-badge]: https://github.com/jaseemabid/bluesky-sync/actions/workflows/sync.yaml/badge.svg
+[workflow-link]: https://github.com/jaseemabid/bluesky-sync/actions/workflows/sync.yaml
+[accounts.txt]: /accounts.txt
 [sp]: https://bsky.app/starter-pack/jabid.in/3lagxhtghxi2e
-[accounts.txt]: https://github.com/jaseemabid/bluesky-sync/blob/main/accounts.txt
 [list]: https://bsky.app/profile/jabid.in/lists/3lawghh5a6v2c
+[uv-install]: https://docs.astral.sh/uv/getting-started/installation/
 
