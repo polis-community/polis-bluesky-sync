@@ -3,7 +3,7 @@ name: Run Sync Script
 on:
   push:
     branches:
-      - main
+      - main-polis
 
 jobs:
   run_sync:
