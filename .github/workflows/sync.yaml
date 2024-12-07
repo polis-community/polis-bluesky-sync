@@ -22,8 +22,9 @@ jobs:
 
       - name: Run sync script
         env:
-          AT_LOGIN: ${{ secrets.AT_LOGIN }}
+          BSKY_SYNC_CONFIG_FILE: "accounts.polis.txt"
+          AT_LOGIN: "patcon.bsky.social"
           AT_PASSWORD: ${{ secrets.AT_PASSWORD }}
-          STARTER_PACK_URI: ${{ secrets.STARTER_PACK_URI }}
-          LIST_URI: ${{ secrets.LIST_URI }}
+          STARTER_PACK_URI: "at://patcon.bsky.social/app.bsky.graph.starterpack/3laxcisdajc2n"
+          LIST_URI: "at://did:plc:k7f2fckeefeh7mcohlezhpbn/app.bsky.graph.list/3lcqrsp3juf2b"
         run: uv run sync.py

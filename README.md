@@ -17,10 +17,9 @@
 
 
 
-[workflow-badge]: https://github.com/jaseemabid/bluesky-sync/actions/workflows/sync.yaml/badge.svg
-[workflow-link]: https://github.com/jaseemabid/bluesky-sync/actions/workflows/sync.yaml
-[accounts.txt]: /accounts.txt
-[sp]: https://bsky.app/starter-pack/jabid.in/3lagxhtghxi2e
-[list]: https://bsky.app/profile/jabid.in/lists/3lawghh5a6v2c
+[workflow-badge]: https://github.com/polis-community/polis-bluesky-sync/actions/workflows/sync.yaml/badge.svg
+[workflow-link]: https://github.com/polis-community/polis-bluesky-sync/actions/workflows/sync.yaml
+[accounts.txt]: /accounts.polis.txt
+[sp]: https://bsky.app/starter-pack/patcon.bsky.social/3laxcisdajc2n
+[list]: https://bsky.app/profile/patcon.bsky.social/lists/3lcqrsp3juf2b
 [uv-install]: https://docs.astral.sh/uv/getting-started/installation/
-
